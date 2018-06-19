@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="query">
+        <item>Select</item>
+        <item>Marketing</item>
+        <item>Personal</item>
+        <item>Customer Care</item>
+        <item>Education</item>
+        <item>Bank Loan</item>
+        <item>Software Jobs</item>
+        <item>Hardware Jobs</item>
+        <item>Other Jobs</item>
+
+    </string-array>
+
+</resources>

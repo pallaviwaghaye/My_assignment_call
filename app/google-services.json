@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "117615115319",
+    "firebase_url": "https://enquirycallfirebase.firebaseio.com",
+    "project_id": "enquirycallfirebase",
+    "storage_bucket": "enquirycallfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117615115319:android:b96edd22bd078d82",
+        "android_client_info": {
+          "package_name": "com.assignment.call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117615115319-s7smtq4s92eo0hrd5bc37jinnsla78k5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "117615115319-s7smtq4s92eo0hrd5bc37jinnsla78k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpxPxLGBFQrXiKpxOTkx4LZthEbdN6II"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
